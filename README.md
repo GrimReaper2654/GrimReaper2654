@@ -15,6 +15,6 @@ BTW I'm still alive... probably
 <details>
   <summary></summary>
   
-  ![stats](https://github.com/user-attachments/assets/61a79614-ebdc-4ed7-8c8a-6e45999b3a83)
-  
+  ![stats](https://github.com/user-attachments/assets/0a4b36a4-6a20-4020-81a4-a28e1db2ea03)
+
 </details>
