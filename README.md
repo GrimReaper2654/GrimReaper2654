@@ -15,6 +15,6 @@ BTW I'm still alive... probably
 <details>
   <summary></summary>
   
-  ![stats](https://github.com/user-attachments/assets/0a4b36a4-6a20-4020-81a4-a28e1db2ea03)
+  <img width="469" alt="25 hour screen time" src="https://github.com/user-attachments/assets/e4ecb4e3-e145-414d-b8a3-bba54fc87500">
 
 </details>
