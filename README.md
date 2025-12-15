@@ -1,4 +1,4 @@
-Simply put, I am a cringe individual who spends too much time online. All I do is read and code stuff online, I have no friends (no longer true). I am the type of person who would rather spend 10 hours writing code to automate a 10 minute task.
+Simply put, I am a cringe individual who spends too much time online. All I do is read and code stuff online, I have no friends (no longer true). I am the type of person who would spend 10 hours writing code to automate a 10 minute task.
 
 BTW I'm still alive... probably
 
